@@ -1,6 +1,12 @@
-#aavdev777
+# Built application files
+*.apk
+*.ap_
+*.aab
 
-# radle files
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle files
 .gradle/
 
 # User-specific configurations
@@ -14,3 +20,28 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Version control
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
